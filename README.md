@@ -1,1 +1,2 @@
 # Assignment1part2
+This Python code implements an interactive command-line file management tool. The program continuously prompts the user for input, allowing them to create new files using the 'C' command, delete files using the 'D' command, and read the contents of files using the 'R' command. The 'C' command creates a new file in a specified directory with a given name.  File-related issues and invalid commands are gracefully handled by the program. By entering 'Q', users can exit the tool after performing these file management actions. 
